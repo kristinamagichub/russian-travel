@@ -39,6 +39,7 @@ ___
 Работа выполнена по заданию от компании Яндекс
 
 [Cсылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+
 Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
 
 [Ссылка на GitHub Pages]()
