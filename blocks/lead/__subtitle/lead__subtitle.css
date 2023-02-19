@@ -1,18 +1,18 @@
 .lead__subtitle {
   margin: 16px 0 40px;
   text-align: center;
-  width: calc(100% - 2 * 16px); 
+  width: calc(100% - 2 * 16px);
   font-weight: 400;
   font-size: 16px;
-  line-height: 125%; 
+  line-height: 125%;
   white-space: pre-line;
 }
 @media screen and (min-width: 768px) {
 .lead__subtitle {
   margin: 32px 0 56px;
-  width: calc(100% - 2 * 64px); 
+  width: calc(100% - 2 * 64px);
   font-size: 30px;
-  line-height: 120%; 
+  line-height: 120%;
   }
 }
 @media screen and (min-width: 1024px) {
