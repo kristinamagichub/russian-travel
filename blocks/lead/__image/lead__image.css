@@ -1,0 +1,15 @@
+.lead__image {
+  margin: 0;
+  display: flex;
+  width: 100%;
+}
+@media screen and (min-width: 1024px) {
+.lead__image {
+  width: calc(100% - 2 * 48px);
+  }
+}
+@media screen and (min-width: 1280px) {
+.lead__image {
+  width: calc(100% - 2 * 148px);
+  }
+}
