@@ -18,13 +18,13 @@
 }
 @media screen and (min-width: 1024px) {
 .cover__subtitle {
-  margin-bottom: 195px; 
+  margin-bottom: 195px;
   width: calc(100% - 2 * 332px); 
   }
 }
 @media screen and (min-width: 1280px) {
 .cover__subtitle {
-  margin-bottom: 245px; 
+  margin-bottom: 245px;
   width: calc(100% - 2 * 412px); 
   }
 }
