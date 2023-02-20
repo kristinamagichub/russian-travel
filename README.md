@@ -45,5 +45,5 @@ ___
 
 Работа выполнена по заданию от компании Яндекс
 
-Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)(target="_blank") |
+Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf) |
 ___
