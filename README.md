@@ -4,7 +4,7 @@ ___
 
 ### Описание
 
-Сайт про бюджетные путешествия по России на поезде и электричках. 
+Сайт про бюджетные путешествия по России на поезде и электричках.
 
 **Функциональность**
 
@@ -16,17 +16,17 @@ ___
 **Технологии**
 
 Создан типовой одностраничный сайт.
-Использована адаптивная верстка на Grid Layout и технологии flexbox. Позиционирование элементов и семантика языка HTML. 
+Использована адаптивная верстка на Grid Layout и технологии flexbox. Позиционирование элементов и семантика языка HTML.
 Использование media queries для задания специфических правил для разных размеров экранов.
 Выполнена файловая структура по методологии БЭМ.
 
 * HTML
 * CSS
-* Positioning Elements 
+* Positioning Elements
 * Flexbox
 * Grid Layout
 * Media Queries
-* Nested File Structure 
+* Nested File Structure
 * BEM Methodology
 
 
@@ -42,4 +42,4 @@ ___
 
 Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
 
-[Ссылка на GitHub Pages]()
+[Ссылка на GitHub Pages](https://kristinamagichub.github.io/russian-travel/index.html)
