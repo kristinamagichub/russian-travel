@@ -16,7 +16,7 @@ ___
 **Технологии**
 
 Создан типовой одностраничный сайт.
-Использована адаптивная верстка на Grid Layout и технологии flexbox. Позиционирование элементов и семантика языка HTML.
+Использована адаптивная верстка на Grid Layout и технологии Flexbox. Позиционирование элементов и семантика языка HTML.
 Использование media queries для задания специфических правил для разных размеров экранов.
 Выполнена файловая структура по методологии БЭМ.
 
@@ -38,8 +38,10 @@ __Планы по доработке__
 ___
 Работа выполнена по заданию от компании Яндекс
 
+Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf) |
+
 [Cсылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
+
 
 [Ссылка на GitHub Pages](https://kristinamagichub.github.io/russian-travel/index.html)
