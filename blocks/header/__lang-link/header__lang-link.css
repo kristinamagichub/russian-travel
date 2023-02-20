@@ -1,14 +1,10 @@
 .header__lang-link {
-  margin: 0 0 0 auto;
+  margin-left: 18px;
   font-weight: 400;
   font-size: 18px;
   line-height: 111%;
   color: #FFFFFF;
   text-decoration: none;
-}
-
-.header__lang-link:last-child {
-  margin-left: 18px;
 }
 
 .header__lang-link:hover {

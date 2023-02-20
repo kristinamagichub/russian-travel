@@ -2,6 +2,7 @@
   padding: 16px 16px 48px;
   display: flex;
   align-items: flex-end;
+  justify-content: space-between;
 }
 
 @media screen and (min-width: 768px) {
