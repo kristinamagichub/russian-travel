@@ -1,5 +1,5 @@
-
-# Путешествия по России
+___
+# __Путешествия по России__
 ___
 
 ### Описание
@@ -36,12 +36,14 @@ __Планы по доработке__
 Создать страницу на английском языке.
 
 ___
-Работа выполнена по заданию от компании Яндекс
-
-Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf) |
 
 [Cсылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 
 
 [Ссылка на GitHub Pages](https://kristinamagichub.github.io/russian-travel/index.html)
+
+Работа выполнена по заданию от компании Яндекс
+
+Проверено по чек листу | [check-list](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf) |
+___
