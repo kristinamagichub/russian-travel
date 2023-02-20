@@ -2,8 +2,9 @@
   margin: 0 16px;
   align-self: self-end;
 }
+
 @media screen and (min-width: 768px) {
-.place__website {
-  margin: 0;
+  .place__website {
+    margin: 0;
   }
 }

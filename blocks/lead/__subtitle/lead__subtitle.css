@@ -5,24 +5,26 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 125%;
-  white-space: pre-line;
 }
+
 @media screen and (min-width: 768px) {
-.lead__subtitle {
-  margin: 32px 0 56px;
-  width: calc(100% - 2 * 64px);
-  font-size: 30px;
-  line-height: 120%;
+  .lead__subtitle {
+    margin: 32px 0 56px;
+    width: calc(100% - 2 * 64px);
+    font-size: 30px;
+    line-height: 120%;
   }
 }
+
 @media screen and (min-width: 1024px) {
-.lead__subtitle {
-  width: calc(100% - 2 * 192px);
+  .lead__subtitle {
+    width: calc(100% - 2 * 192px);
   }
 }
+
 @media screen and (min-width: 1280px) {
-.lead__subtitle {
-  margin-bottom: 64px;
-  width: calc(100% - 2 * 320px);
+  .lead__subtitle {
+    margin-bottom: 64px;
+    width: calc(100% - 2 * 320px);
   }
 }

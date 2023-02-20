@@ -3,14 +3,16 @@
   display: flex;
   flex-direction: column;
 }
+
 @media screen and (min-width: 768px) {
-.footer {
-  margin: 88px 24px 24px;
-  flex-direction: row;
+  .footer {
+    margin: 88px 24px 24px;
+    flex-direction: row;
   }
 }
+
 @media screen and (min-width: 1024px) {
-.footer {
-  margin: 92px 48px 24px;  
+  .footer {
+    margin: 92px 48px 24px;
   }
 }
